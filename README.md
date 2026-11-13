@@ -1,4 +1,4 @@
-#Student Enrollment & Course Analysis Dashboard
+# Student Enrollment & Course Analysis Dashboard
  Project Overview
 
 The Student Enrollment & Course Analysis Dashboard is a data analytics project designed to analyze student enrollment patterns, course performance, branch-wise distribution, payment status, and revenue generation.
